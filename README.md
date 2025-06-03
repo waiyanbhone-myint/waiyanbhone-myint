@@ -18,7 +18,8 @@ I mostly work with **Java**, **AWS**, and **Linux**, and I’m always looking to
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/>
+
 
 </p>
 
