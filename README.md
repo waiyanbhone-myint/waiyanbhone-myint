@@ -31,8 +31,6 @@ I mostly work with **Java**, **AWS**, and **Linux**, and I’m always looking to
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/228BE6/cisco.png" width="40" title="Cisco Networking"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/
 </p>
 
