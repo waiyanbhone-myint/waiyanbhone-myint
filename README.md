@@ -35,3 +35,10 @@ I mostly work with **Java**, **AWS**, and **Linux**, and I’m always looking to
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40"/>
 </p>
 
+---
+
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/William_2002)
+
+
