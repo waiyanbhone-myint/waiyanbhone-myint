@@ -5,7 +5,7 @@
 ---
 
 ### 📊 LeetCode Stats
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=waiyanbhone-myint&theme=dark)](https://leetcode.com/waiyanbhone-myint)
+![LeetCode Stats](https://leetcard.jacoblin.cool/waiyanbhone-myint?theme=dark&font=Ubuntu)
 
 ### 🛠 Tech & Learning
 - 🏗️ **Focus:** DevOps, Jenkins, and LFCS Certification
