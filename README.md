@@ -8,6 +8,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/waiyanbhone-myint?theme=dark&font=Ubuntu)
 
 ### 🛠 Tech & Learning
-- 🏗️ **Focus:** DevOps, Jenkins, and LFCS Certification
+- 🏗️ **Focus:** Linux and Cloud/DevOps
 - 🎓 **Education:** Associate's Degree (Class of 2026)
 - 📍 **Location:** New York
