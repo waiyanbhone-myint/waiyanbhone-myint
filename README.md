@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Wai Yan Bhone Myint
 
-<!--
-**waiyanbhone-myint/waiyanbhone-myint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer @ Bank of America** | **Computer Science Student @ LaGuardia CC**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 LeetCode Stats
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=waiyanbhone-myint&theme=dark)](https://leetcode.com/waiyanbhone-myint)
+
+### 🛠 Tech & Learning
+- 🏗️ **Focus:** DevOps, Jenkins, and LFCS Certification
+- 🎓 **Education:** Associate's Degree (Class of 2026)
+- 📍 **Location:** New York
