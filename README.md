@@ -4,9 +4,6 @@
 
 ---
 
-### 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/waiyanbhone-myint?theme=dark&font=Ubuntu)
-
 ### 🛠 Tech & Learning
 - 🏗️ **Focus:** Linux and Cloud/DevOps
 - 🎓 **Education:** Associate's Degree (Class of 2026)
